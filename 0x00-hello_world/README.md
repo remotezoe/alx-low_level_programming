@@ -1,1 +1,1 @@
-Hello World tasks - C language basics
+this is a c hello world readme
